@@ -4,7 +4,7 @@ AI-powered Mathematics Assistant with voice features and graph generation capabi
 # Testing the application 
 You can enter these messages to get started with MathBot
 ## Basic Greetings
-![Basic Greetings](basic greetings.png)
+![Basic Greetings](basic_greetings.png)
 
 
 ## Mathematical Theoretical Questions
